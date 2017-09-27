@@ -1,8 +1,3 @@
-作者：地球的外星人君
-链接：https://zhuanlan.zhihu.com/p/28386695
-来源：知乎
-著作权归作者所有，转载请联系作者获得授权。
-
 #!/usr/bin/python #-*- coding:utf-8 -*- import argparse
 import os
 import json
