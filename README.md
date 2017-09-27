@@ -15,7 +15,7 @@
                                 分类方式<br/>
        按扩展名分类:<br/>
         ` python classify.py -t ext `目录路径<br/>
-    *效果：
+    *效果：<br/>
         ├── DS_Store <br/>
         ├── bat<br/>
         ├── bin<br/>
